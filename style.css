@@ -1,0 +1,7 @@
+* {
+	box-sizing: border-box;
+}
+.nav-img {
+	max-width: 100%;
+	height: auto;
+}
